@@ -14,7 +14,7 @@ namespace Twittap
     public partial class Form1 : Form
     {
         public ITweet[] timeline;
-        //public TwitterClient client;
+        
         public ITweet[] Tweets;
       
         public Form1()
