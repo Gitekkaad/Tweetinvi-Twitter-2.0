@@ -70,21 +70,6 @@ namespace Twittap
 
 
 
-                MessageBox.Show($"You are now authenticated as {user}!");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                 timeline = client.Timelines.GetUserTimelineAsync(user).Result;
 
                 
