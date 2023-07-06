@@ -1,6 +1,6 @@
 ﻿
 
-//  (C) 2023 Farmer Basics
+//  2023 Farmer Basics  >> wip
 
 using System;
 using System.Text;
