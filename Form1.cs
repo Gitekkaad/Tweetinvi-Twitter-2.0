@@ -29,6 +29,12 @@ namespace Twittap
             try
             {
                 var client = new TwitterClient(
+
+
+                AccessToken
+                AccessTokenSecret
+                ConsumerKey
+                ConsumerSecret
                    
                 );
 
