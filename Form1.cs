@@ -29,10 +29,7 @@ namespace Twittap
             try
             {
                 var client = new TwitterClient(
-                    "PmJowiyoqre67P8WM7soldduG",
-                    "QURzQcPfg42TrqXHrWlNtRqw3nvrgDPOmLNmHZr5Oq4WTu8Y1w",
-                    "151238035-h2KTVLc7OLCSNxqFifY90oLZl6ir7FckcdVZRoAL",
-                    "l68Z5fNoUN2nGpMnvP7Iu7XkmY0jMjqm21A7cMJHXHnH2"
+                   
                 );
 
                 var user = client.Users.GetAuthenticatedUserAsync().Result;
